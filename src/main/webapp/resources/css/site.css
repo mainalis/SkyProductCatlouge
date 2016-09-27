@@ -1,0 +1,23 @@
+#left {
+    border-color: mediumseagreen;
+    border-style: solid;
+}
+
+#right {
+    border-color: antiquewhite;
+    border-style: solid;
+}
+
+.hidden {
+    display: none;
+}
+
+h1 {
+    color: aqua;
+}
+
+
+ul {
+    list-style: none;
+
+}
